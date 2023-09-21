@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+
+
+# do projeto, além do java o que não vai pra o github e outros
+
+LICENSE
