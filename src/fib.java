@@ -10,7 +10,7 @@ public class fib {
         int mil = 1000;
         long ate =  30;
 
-        zfor(long i = 0; i < ate; i++){
+        for(long i = 0; i < ate; i++){
             System.out.println( "linhad " +(i+1) +" valor: (" +atual +")");
 
             
